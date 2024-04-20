@@ -1,4 +1,4 @@
-[![Gifted MD V.2.0.0](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=1FC40A&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+Gifted-MD+V.2.0.0;I+am+Programmed+by+Gifted+Tech;Gifted+Tech+is+a+Self+Learned+Fronted+Developer;He+is+from+East+Africa-Kenya)](https://github.com/Giftedmaurice/gifted-mdV2)
+[![Success mdV.2.0.0](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=1FC40A&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+Gifted-MD+V.2.0.0;I+am+Programmed+by+Gifted+Tech;Gifted+Tech+is+a+Self+Learned+Fronted+Developer;He+is+from+East+Africa-Kenya)](https://github.com/Giftedmaurice/gifted-mdV2)
 
  <h1 align="center"> ɢɪғᴛᴇᴅ ᴍᴅ Version 2.0.0 </h1> 
  <br>
@@ -58,7 +58,7 @@
 
 
 
-## Some of Gifted-Md Bot Games:
+## Some of success tech Bot Games:
 ---
 1. ***Connect Four Game(cfg).***
 2.  ***Tic Tac Toe.***
@@ -80,12 +80,12 @@
 
     
    
-## Gifted-Md V.2.0.0 Deployment Methods
+## success mdV.2.0.0 Deployment Methods
 ---
 1.  ***Click [`FORK`](https://github.com/Giftedmaurice/gifted-mdV2/fork) and `Star ⭐ Repository` for Courage.***
 2.  ***Get `SESSION ID`  [`BY CLICKING HERE`](https://session.giftedtechnexus.co.ke) And then `Go-to Whatapp>Three dots>Linked Devices`***
 3. ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FGiftedmaurice%2Fgifted-mdV2)***
-4.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
+4.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJbM)***
 5.  ***Deploy on [`Replit`](https://replit.com/github/Giftedmaurice/gifted-mdV2)***
 6.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
 7.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Giftedmaurice?gifted-mdv2&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254762016957&env[MONGODB_URI]&&env[OWNER_NAME]=ɢɪғᴛᴇᴅᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=true&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=ɢɪғᴛᴇᴅᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GIFTED&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/54efddccf41281ad7ec51.jpg)***
@@ -99,7 +99,7 @@
 
 
 ### I Am
-- [Gifted Tech](https://github.com/Giftedmaurice) 
+- [Success tech](https://github.com/Giftedmaurice) 
 
 
 
@@ -108,7 +108,7 @@
 </h2>
    
 ## 
-- *Gifted-Bot-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Success MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Gifted-Bot-Md at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Giftedmaurice/gifted-mdV2)
